@@ -9,7 +9,7 @@ class Test01 {
     assertEquals("test", "test");
   }
 
-  // @Test
+  @Test
   void test02_failed(){
     assertEquals("test", "failedTest11");
   }
