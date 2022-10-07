@@ -11,6 +11,6 @@ class Test01 {
 
   @Test
   void test02_failed(){
-    assertEquals("test", "failedTest");
+    assertEquals("test", "failedTest11");
   }
 }
